@@ -1,0 +1,29 @@
+#topmost{
+    color:rgba(247, 193, 16, 0.731);
+    border: 2px solid olivedrab;
+}
+
+
+body{
+    color:rgb(115,181,132);
+    background-color:rgb(3, 62, 62);
+    border: 2px solid olivedrab;
+}
+
+.segments{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#meta{
+    font-style: normal;
+    font-size: xx-large;
+    color: gold;
+    border: 2px solid olivedrab;
+}
+
+#first{
+    background-color: rgba(5, 45, 29, 0.9);
+    border: 2px solid olivedrab;
+}
